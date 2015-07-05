@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FF14JobJudge</string>
+
+    <string name="action_settings">フォルダ選択</string>
+    <string name="action_howto">使い方</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_file_list_dialog">FileListDialog</string>
+
+    <string name="Test_banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4193371605325082/16554416581</string>
+    <string name="Inter_ad_unit_id">ca-app-pub-4193371605325082/2154969254</string>
+
+    <string name="analytics_track_id">UA-56583592-3</string>
+
+    <string name="sp_is_first">IsFirst</string>
+    <string name="sp_saved_folder">SavedFolder</string>
+
+    <string name="Google_Play_URL">https://play.google.com/store/apps/details?id=com.trombonewind.ff14jobjudge</string>
+</resources>
